@@ -34,7 +34,7 @@
 .form_disabled {
 }
 .connector {
-  font-family:'CenturyGothic-Bold', 'Century Gothic Bold', 'Century Gothic', sans-serif;
+  font-family:"Century Gothic Bold", "Century Gothic", sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:13px;
@@ -43,7 +43,7 @@
   line-height:normal;
 }
 .connector1 {
-  font-family:'CenturyGothic', 'Century Gothic', sans-serif;
+  font-family:"Century Gothic", sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
