@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u376_div {
+#u395_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -30,7 +30,7 @@
   transition:none;
   font-size:36px;
 }
-#u376 {
+#u395 {
   border-width:0px;
   position:absolute;
   left:72px;
@@ -42,19 +42,19 @@
   transform-origin:50% 50%;
   font-size:36px;
 }
-#u376 .text {
+#u395 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u376_text {
+#u395_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u377 {
+#u396 {
   border-width:0px;
   position:absolute;
   left:363px;
@@ -67,14 +67,14 @@
   color:#FFFFFF;
   line-height:24px;
 }
-#u377 .text {
+#u396 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u377_img {
+#u396_img {
   border-width:0px;
   position:absolute;
   left:-1px;
@@ -82,19 +82,19 @@
   width:81px;
   height:36px;
 }
-#u377_img.mouseOver {
+#u396_img.mouseOver {
 }
-#u377.mouseOver {
+#u396.mouseOver {
 }
-#u377_img.mouseDown {
+#u396_img.mouseDown {
 }
-#u377.mouseDown {
+#u396.mouseDown {
 }
-#u377_img.mouseOver.mouseDown {
+#u396_img.mouseOver.mouseDown {
 }
-#u377.mouseOver.mouseDown {
+#u396.mouseOver.mouseDown {
 }
-#u377_text {
+#u396_text {
   border-width:0px;
   word-wrap:break-word;
   text-shadow:0px -1px 0px rgba(0, 0, 0, 0.2);
@@ -102,7 +102,7 @@
   -moz-text-shadow:0px -1px 0px rgba(0, 0, 0, 0.2);
   text-transform:none;
 }
-#u378 {
+#u397 {
   border-width:0px;
   position:absolute;
   left:169px;
@@ -115,14 +115,14 @@
   color:#FFFFFF;
   line-height:24px;
 }
-#u378 .text {
+#u397 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u378_img {
+#u397_img {
   border-width:0px;
   position:absolute;
   left:-1px;
@@ -130,19 +130,19 @@
   width:81px;
   height:36px;
 }
-#u378_img.mouseOver {
+#u397_img.mouseOver {
 }
-#u378.mouseOver {
+#u397.mouseOver {
 }
-#u378_img.mouseDown {
+#u397_img.mouseDown {
 }
-#u378.mouseDown {
+#u397.mouseDown {
 }
-#u378_img.mouseOver.mouseDown {
+#u397_img.mouseOver.mouseDown {
 }
-#u378.mouseOver.mouseDown {
+#u397.mouseOver.mouseDown {
 }
-#u378_text {
+#u397_text {
   border-width:0px;
   word-wrap:break-word;
   text-shadow:0px -1px 0px rgba(0, 0, 0, 0.2);
