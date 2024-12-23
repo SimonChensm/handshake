@@ -2,13 +2,13 @@
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="10px" height="9px" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <mask fill="white" id="Clip959">
+    <mask fill="white" id="Clip1189">
       <path d="M 10 4.5  C 10 2.0114999999999994  7.765000000000001 0  5 0  C 2.235 0  0 2.0115  0 4.5  C 0 6.988500000000001  2.235 9  5 9  C 7.765000000000001 9  10 6.988500000000001  10 4.5  Z M 5.705 4.5  L 7.5 6.1155  L 6.795 6.75  L 5 5.1345  L 3.205 6.75  L 2.5 6.1155  L 4.295 4.5  L 2.5 2.8845  L 3.205 2.25  L 5 3.8655  L 6.795 2.25  L 7.5 2.8845  L 5.705 4.5  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -372 -185 )">
     <path d="M 10 4.5  C 10 2.0114999999999994  7.765000000000001 0  5 0  C 2.235 0  0 2.0115  0 4.5  C 0 6.988500000000001  2.235 9  5 9  C 7.765000000000001 9  10 6.988500000000001  10 4.5  Z M 5.705 4.5  L 7.5 6.1155  L 6.795 6.75  L 5 5.1345  L 3.205 6.75  L 2.5 6.1155  L 4.295 4.5  L 2.5 2.8845  L 3.205 2.25  L 5 3.8655  L 6.795 2.25  L 7.5 2.8845  L 5.705 4.5  Z " fill-rule="nonzero" fill="rgba(105, 105, 105, 1)" stroke="none" transform="matrix(1 0 0 1 372 185 )" class="fill" />
-    <path d="M 10 4.5  C 10 2.0114999999999994  7.765000000000001 0  5 0  C 2.235 0  0 2.0115  0 4.5  C 0 6.988500000000001  2.235 9  5 9  C 7.765000000000001 9  10 6.988500000000001  10 4.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 372 185 )" class="stroke" mask="url(#Clip959)" />
-    <path d="M 5.705 4.5  L 7.5 6.1155  L 6.795 6.75  L 5 5.1345  L 3.205 6.75  L 2.5 6.1155  L 4.295 4.5  L 2.5 2.8845  L 3.205 2.25  L 5 3.8655  L 6.795 2.25  L 7.5 2.8845  L 5.705 4.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 372 185 )" class="stroke" mask="url(#Clip959)" />
+    <path d="M 10 4.5  C 10 2.0114999999999994  7.765000000000001 0  5 0  C 2.235 0  0 2.0115  0 4.5  C 0 6.988500000000001  2.235 9  5 9  C 7.765000000000001 9  10 6.988500000000001  10 4.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 372 185 )" class="stroke" mask="url(#Clip1189)" />
+    <path d="M 5.705 4.5  L 7.5 6.1155  L 6.795 6.75  L 5 5.1345  L 3.205 6.75  L 2.5 6.1155  L 4.295 4.5  L 2.5 2.8845  L 3.205 2.25  L 5 3.8655  L 6.795 2.25  L 7.5 2.8845  L 5.705 4.5  Z " stroke-width="0" stroke-dasharray="0" stroke="rgba(255, 255, 255, 0)" fill="none" transform="matrix(1 0 0 1 372 185 )" class="stroke" mask="url(#Clip1189)" />
   </g>
 </svg>
