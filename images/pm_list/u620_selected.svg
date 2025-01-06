@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="295 147 18 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 304 147  C 309.04 147  313 150.96  313 156  C 313 161.04  309.04 165  304 165  C 298.96 165  295 161.04  295 156  C 295 150.96  298.96 147  304 147  Z " fill-rule="nonzero" fill="rgba(98, 0, 238, 0)" stroke="none" class="fill" />
-  <path d="M 304 148  C 308.48 148  312 151.52  312 156  C 312 160.48  308.48 164  304 164  C 299.52 164  296 160.48  296 156  C 296 151.52  299.52 148  304 148  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(30, 152, 215, 1)" fill="none" class="stroke" />
-  <path d="M 304 160.5  C 301.48 160.5  299.5 158.52  299.5 156  C 299.5 153.48  301.48 151.5  304 151.5  C 306.52 151.5  308.5 153.48  308.5 156  C 308.5 158.52  306.52 160.5  304 160.5  " fill-rule="nonzero" fill="rgba(30, 152, 215, 1)" stroke="none" class="stroke btn_check" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="217 147 18 18" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 226 147  C 231.04 147  235 150.96  235 156  C 235 161.04  231.04 165  226 165  C 220.96 165  217 161.04  217 156  C 217 150.96  220.96 147  226 147  Z " fill-rule="nonzero" fill="rgba(98, 0, 238, 0)" stroke="none" class="fill" />
+  <path d="M 226 148  C 230.48 148  234 151.52  234 156  C 234 160.48  230.48 164  226 164  C 221.52 164  218 160.48  218 156  C 218 151.52  221.52 148  226 148  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(30, 152, 215, 1)" fill="none" class="stroke" />
+  <path d="M 226 160.5  C 223.48 160.5  221.5 158.52  221.5 156  C 221.5 153.48  223.48 151.5  226 151.5  C 228.52 151.5  230.5 153.48  230.5 156  C 230.5 158.52  228.52 160.5  226 160.5  " fill-rule="nonzero" fill="rgba(30, 152, 215, 1)" stroke="none" class="stroke btn_check" />
 </svg>
