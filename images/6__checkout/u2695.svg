@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="145px" height="36px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="71.5" y1="0" x2="71.5" y2="34" id="LinearGradient544">
+      <stop id="Stop545" stop-color="#428bca" offset="0" />
+      <stop id="Stop546" stop-color="#2d6ca2" offset="1" />
+    </linearGradient>
+    <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="Filter547">
+      <feOffset dx="0" dy="1" in="SourceGraphic" result="offset" id="offset" />
+      <feMorphology radius="1" operator="erode" in="offset" result="morphology" id="morphology" />
+      <feGaussianBlur stdDeviation="0" in="morphology" result="blur" id="blur" />
+      <feComposite in2="blur" operator="out" in="SourceGraphic" result="inverse" id="inverse" />
+      <feFlood flood-color="rgba(255, 255, 255, 0.14901960784313725)" in="inverse" result="color" id="color" />
+      <feComposite in2="inverse" operator="in" in="color" result="shadow" id="shadow" />
+      <feComposite in2="SourceGraphic" operator="over" in="shadow" />
+    </filter>
+    <mask fill="white" id="Clip548">
+      <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 139 0  C 141.23999999999998 0  143 1.7599999999999998  143 4  L 143 30  C 143 32.24  141.23999999999998 34  139 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -336 -449 )">
+    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 139 0  C 141.23999999999998 0  143 1.7599999999999998  143 4  L 143 30  C 143 32.24  141.23999999999998 34  139 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " fill-rule="nonzero" fill="url(#LinearGradient544)" stroke="none" transform="matrix(1 0 0 1 337 449 )" class="fill" />
+    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 139 0  C 141.23999999999998 0  143 1.7599999999999998  143 4  L 143 30  C 143 32.24  141.23999999999998 34  139 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(40, 94, 142, 1)" fill="none" transform="matrix(1 0 0 1 337 449 )" class="stroke" mask="url(#Clip548)" />
+  </g>
+  <style>svg { filter: drop-shadow(0px 1px 0.5px rgba(0, 0, 0, 0.06666666666666667)); }path.fill { filter: url('#Filter547'); }</style>
+</svg>
