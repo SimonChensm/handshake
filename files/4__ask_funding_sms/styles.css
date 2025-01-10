@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u3050_div {
+#u3048_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u3050 {
+#u3048 {
   border-width:0px;
   position:absolute;
   left:112px;
@@ -40,14 +40,14 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u3050 .text {
+#u3048 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u3050_text {
+#u3048_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
