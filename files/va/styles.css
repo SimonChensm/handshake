@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-0px;
+  position:static;
+  left:auto;
   width:1052px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -812,7 +812,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:65px;
+  width:82px;
   height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -826,7 +826,7 @@
   position:absolute;
   left:129px;
   top:260px;
-  width:65px;
+  width:82px;
   height:18px;
   display:flex;
   transition:none;

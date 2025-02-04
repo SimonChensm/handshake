@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="254 20 18 18" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 263 20  C 268.04 20  272 23.96  272 29  C 272 34.04  268.04 38  263 38  C 257.96 38  254 34.04  254 29  C 254 23.96  257.96 20  263 20  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0)" stroke="none" class="fill" />
-  <path d="M 263 21  C 267.48 21  271 24.52  271 29  C 271 33.480000000000004  267.48 37  263 37  C 258.52 37  255 33.480000000000004  255 29  C 255 24.52  258.52 21  263 21  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" />
-  <path d="M 263 33.5  C 260.48 33.5  258.5 31.52  258.5 29  C 258.5 26.48  260.48 24.5  263 24.5  C 265.52 24.5  267.5 26.48  267.5 29  C 267.5 31.52  265.52 33.5  263 33.5  " fill-rule="nonzero" fill="rgba(121, 121, 121, 1)" stroke="none" class="stroke btn_check" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="100px" height="30px" viewBox="400 100 100 30" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 1 1  L 100 1  L 100 30  L 1 30  L 1 1  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 1)" stroke="none" transform="matrix(1 0 0 1 400 100 )" class="fill" />
+  <path d="M 0.5 1  L 0.5 30  " stroke-width="1" stroke-dasharray="0" stroke="rgba(204, 204, 204, 1)" fill="none" transform="matrix(1 0 0 1 400 100 )" class="stroke" />
+  <path d="M 0 0.5  L 100 0.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(204, 204, 204, 1)" fill="none" transform="matrix(1 0 0 1 400 100 )" class="stroke" />
 </svg>

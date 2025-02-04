@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-87px;
-  width:399px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:486px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u3645_div {
+#u3798_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u3645 {
+#u3798 {
   border-width:0px;
   position:absolute;
   left:87px;
@@ -40,14 +40,14 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u3645 .text {
+#u3798 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u3645_text {
+#u3798_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

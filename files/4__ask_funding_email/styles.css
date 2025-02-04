@@ -1,11 +1,11 @@
 ﻿body {
   margin:0px;
   background-image:none;
-  position:relative;
-  left:-76px;
-  width:540px;
-  margin-left:auto;
-  margin-right:auto;
+  position:static;
+  left:auto;
+  width:616px;
+  margin-left:0;
+  margin-right:0;
   text-align:left;
 }
 .form_sketch {
@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u3146_div {
+#u3299_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u3146 {
+#u3299 {
   border-width:0px;
   position:absolute;
   left:76px;
@@ -40,19 +40,19 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u3146 .text {
+#u3299 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u3146_text {
+#u3299_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u3147_div {
+#u3300_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -65,7 +65,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u3147 {
+#u3300 {
   border-width:0px;
   position:absolute;
   left:76px;
@@ -76,19 +76,19 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u3147 .text {
+#u3300 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u3147_text {
+#u3300_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u3148_div {
+#u3301_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -101,7 +101,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u3148 {
+#u3301 {
   border-width:0px;
   position:absolute;
   left:76px;
@@ -112,14 +112,14 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u3148 .text {
+#u3301 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u3148_text {
+#u3301_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
