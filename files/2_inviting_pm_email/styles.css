@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u1519_div {
+#u1518_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -29,7 +29,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u1519 {
+#u1518 {
   border-width:0px;
   position:absolute;
   left:76px;
@@ -39,6 +39,44 @@
   display:flex;
   transition:none;
   transform-origin:50% 50%;
+}
+#u1518 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1518_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1519_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:653px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border-radius:0px;
+  filter:drop-shadow(none);
+  transition:none;
+  font-size:16px;
+}
+#u1519 {
+  border-width:0px;
+  position:absolute;
+  left:76px;
+  top:18px;
+  width:653px;
+  height:18px;
+  display:flex;
+  transition:none;
+  transform-origin:50% 50%;
+  font-size:16px;
 }
 #u1519 .text {
   position:absolute;
@@ -57,44 +95,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:653px;
-  height:18px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border-radius:0px;
-  filter:drop-shadow(none);
-  transition:none;
-  font-size:16px;
-}
-#u1520 {
-  border-width:0px;
-  position:absolute;
-  left:76px;
-  top:18px;
-  width:653px;
-  height:18px;
-  display:flex;
-  transition:none;
-  transform-origin:50% 50%;
-  font-size:16px;
-}
-#u1520 .text {
-  position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u1520_text {
-  border-width:0px;
-  white-space:nowrap;
-  text-transform:none;
-}
-#u1521_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:484px;
   height:165px;
   background:inherit;
@@ -103,7 +103,7 @@
   filter:drop-shadow(none);
   transition:none;
 }
-#u1521 {
+#u1520 {
   border-width:0px;
   position:absolute;
   left:76px;
@@ -114,14 +114,14 @@
   transition:none;
   transform-origin:50% 50%;
 }
-#u1521 .text {
+#u1520 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u1521_text {
+#u1520_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;

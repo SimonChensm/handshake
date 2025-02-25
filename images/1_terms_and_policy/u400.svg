@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="81px" height="36px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="39.5" y1="0" x2="39.5" y2="34" id="LinearGradient299">
-      <stop id="Stop300" stop-color="#5cb85c" offset="0" />
-      <stop id="Stop301" stop-color="#419641" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="39.5" y1="0" x2="39.5" y2="34" id="LinearGradient386">
+      <stop id="Stop387" stop-color="#5cb85c" offset="0" />
+      <stop id="Stop388" stop-color="#419641" offset="1" />
     </linearGradient>
     <pattern id="BGPattern" patternUnits="userSpaceOnUse" alignment="0 0" imageRepeat="None" />
-    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="Filter302">
+    <filter x="-50.00%" y="-50.00%" width="200.00%" height="200.00%" filterUnits="objectBoundingBox" id="Filter389">
       <feOffset dx="0" dy="1" in="SourceGraphic" result="offset" id="offset" />
       <feMorphology radius="1" operator="erode" in="offset" result="morphology" id="morphology" />
       <feGaussianBlur stdDeviation="0" in="morphology" result="blur" id="blur" />
@@ -15,13 +15,13 @@
       <feComposite in2="inverse" operator="in" in="color" result="shadow" id="shadow" />
       <feComposite in2="SourceGraphic" operator="over" in="shadow" />
     </filter>
-    <mask fill="white" id="Clip303">
+    <mask fill="white" id="Clip390">
       <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 75 0  C 77.24000000000001 0  79 1.7599999999999998  79 4  L 79 30  C 79 32.24  77.24000000000001 34  75 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " fill-rule="evenodd" />
     </mask>
   </defs>
   <g transform="matrix(1 0 0 1 -168 -212 )">
-    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 75 0  C 77.24000000000001 0  79 1.7599999999999998  79 4  L 79 30  C 79 32.24  77.24000000000001 34  75 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " fill-rule="nonzero" fill="url(#LinearGradient299)" stroke="none" transform="matrix(1 0 0 1 169 212 )" class="fill" />
-    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 75 0  C 77.24000000000001 0  79 1.7599999999999998  79 4  L 79 30  C 79 32.24  77.24000000000001 34  75 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(62, 143, 62, 1)" fill="none" transform="matrix(1 0 0 1 169 212 )" class="stroke" mask="url(#Clip303)" />
+    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 75 0  C 77.24000000000001 0  79 1.7599999999999998  79 4  L 79 30  C 79 32.24  77.24000000000001 34  75 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " fill-rule="nonzero" fill="url(#LinearGradient386)" stroke="none" transform="matrix(1 0 0 1 169 212 )" class="fill" />
+    <path d="M 0 30  L 0 4  C 0 1.7599999999999998  1.7599999999999998 0  4 0  L 75 0  C 77.24000000000001 0  79 1.7599999999999998  79 4  L 79 30  C 79 32.24  77.24000000000001 34  75 34  L 4 34  C 1.7599999999999998 34  0 32.24  0 30  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(62, 143, 62, 1)" fill="none" transform="matrix(1 0 0 1 169 212 )" class="stroke" mask="url(#Clip390)" />
   </g>
-  <style>svg { filter: drop-shadow(0px 1px 0.5px rgba(0, 0, 0, 0.06666666666666667)); }path.fill { filter: url('#Filter302'); }</style>
+  <style>svg { filter: drop-shadow(0px 1px 0.5px rgba(0, 0, 0, 0.06666666666666667)); }path.fill { filter: url('#Filter389'); }</style>
 </svg>
