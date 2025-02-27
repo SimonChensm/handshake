@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="106px" height="30px" viewBox="356 130 106 30" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1 1  L 106 1  L 106 30  L 1 30  L 1 1  Z " fill-rule="nonzero" fill="rgba(242, 242, 242, 1)" stroke="none" transform="matrix(1 0 0 1 356 130 )" class="fill" />
-  <path d="M 0.5 1  L 0.5 30  " stroke-width="1" stroke-dasharray="0" stroke="rgba(204, 204, 204, 1)" fill="none" transform="matrix(1 0 0 1 356 130 )" class="stroke" />
-  <path d="M 0 0.5  L 106 0.5  " stroke-width="1" stroke-dasharray="0" stroke="rgba(204, 204, 204, 1)" fill="none" transform="matrix(1 0 0 1 356 130 )" class="stroke" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="18px" height="18px" viewBox="141 101 18 18" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 141 103  A 2 2 0 0 1 143 101 L 157 101  A 2 2 0 0 1 159 103 L 159 117  A 2 2 0 0 1 157 119 L 143 119  A 2 2 0 0 1 141 117 L 141 103  Z " fill-rule="nonzero" fill="rgba(255, 255, 255, 0)" stroke="none" class="fill" />
+  <path d="M 142 103  A 1 1 0 0 1 143 102 L 157 102  A 1 1 0 0 1 158 103 L 158 117  A 1 1 0 0 1 157 118 L 143 118  A 1 1 0 0 1 142 117 L 142 103  Z " stroke-width="2" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke" />
+  <path d="M 144.85714285714286 110  L 148.71428571428572 113.85714285714285  L 155.14285714285714 104.85714285714286  " stroke-width="3.8571428571428577" stroke-dasharray="0" stroke="rgba(121, 121, 121, 1)" fill="none" class="stroke btn_check" />
 </svg>
